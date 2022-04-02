@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 This is Ghufran
 
 <!--
 **GhufranThabit/GhufranThabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A Self motivated woman :raising_hand: with bachelor of Business Administration, moved to the Netherlands :heartpulse: in 2021 and desided to start a new career. 
+<br>Intrested in coding :computer:.
+Currently having a full Stack web development program covering HTML, CSS, Javascript, Node, and React!
+<br> You can find me on linkedin : www.linkedin.com/in/ghufran-thabit 
